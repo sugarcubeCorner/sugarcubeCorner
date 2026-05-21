@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, Kris! What's up? Didja lose your pencil again?
 
 <!--
 **sugarcubeCorner/sugarcubeCorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
